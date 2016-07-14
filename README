@@ -1,0 +1,14 @@
+README OF create_certificates.sh
+
+-Data of root CA and intermediate CA must be the same:
+
+	Country Name (2 letter code) [GB]:
+	State or Province Name [England]:
+	Locality Name []:
+	Organization Name [Alice Ltd]:
+	Organizational Unit Name []:
+
+-Check the configuration of the apache
+
+-Check the configuration of openssl.conf and openssl_intermediate.conf
+
